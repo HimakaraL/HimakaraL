@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HimakaraL
 - 👀 I’m interested in Evolving!
 - 🌱 I’m currently following a Degree @SLIIT
-- 💞️ I’m looking to collaborate on IT related anything!
+- 💞️ Passionate about Data Science
 - 📫 Reach me: himakaral@outlook.com
 - 🌐 http://himakaral.000.pe
 
