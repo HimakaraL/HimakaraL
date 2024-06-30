@@ -1,4 +1,4 @@
-![Coding GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXM2bGx3djA5cDk0c215YzEzMjZtaHN2bnA2bXU5Y3k0YmtvbGNhcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif)
+<img src="[https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXM2bGx3djA5cDk0c215YzEzMjZtaHN2bnA2bXU5Y3k0YmtvbGNhcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif)" width="240" height="240" alt="Coding GIF">
 
 - 👋 Hi, I’m @HimakaraL
 - 💞️ Passionate about Data Science
