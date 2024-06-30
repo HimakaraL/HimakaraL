@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/u2pmTWUi0MXjyrMaVj" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/CapgeminiIndia-coding-techchallenge2020-techchallenge-u2pmTWUi0MXjyrMaVj">via GIPHY</a></p>
+![Coding GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXM2bGx3djA5cDk0c215YzEzMjZtaHN2bnA2bXU5Y3k0YmtvbGNhcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif)
 
 - 👋 Hi, I’m @HimakaraL
 - 💞️ Passionate about Data Science
