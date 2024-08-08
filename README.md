@@ -5,7 +5,7 @@
   <!-- 1st Row: Description and GIF -->
   <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 20px;">
     <div style="margin-right: 20px;">
-      <p style="text-align: left;">👋 Hi, I’m @HimakaraL</p>
+      <p style="text-align: left;">👋 Hi, I’m Himakara-L</p>
       <p style="text-align: left;">📫 Reach me: <a href="mailto:himakaral@outlook.com">himakaral@outlook.com</a></p>
       <p style="text-align: left;">🌐 <a href="http://himakaral.000.pe">himakaral.000.pe</a></p>
     </div>
