@@ -19,6 +19,6 @@
   
   <!-- 3rd Row: Provided Image -->
   <div>
-    ![Untitled design (1)](https://github.com/user-attachments/assets/f845e0f4-cbc7-4fff-80ad-bb6b3aab47e7)
+    <img src="https://github.com/user-attachments/assets/71542cd7-4791-40b4-9a8d-b7871abc7da1" alt="Provided Image" />
   </div>
 </div>
