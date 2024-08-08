@@ -19,7 +19,8 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimakaraL&hide=java,html,tex&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=151515&langs_count=3" />
     </a>
   </div>
-  
+
+  <br/>
   <!-- 3rd Row: Provided Image -->
   <div>
     <img src="https://github.com/user-attachments/assets/71542cd7-4791-40b4-9a8d-b7871abc7da1" alt="Provided Image" />
