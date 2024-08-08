@@ -13,7 +13,7 @@
   <div style="margin-bottom: 20px;">
     <h2>Languages I Use</h2>
     <a href="https://github.com/HimakaraL/HimakaraL">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimakaraL&hide=java,html,tex&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1d1f21&langs_count=3" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimakaraL&hide=java,html,tex&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=ffffff&langs_count=3" />
     </a>
   </div>
   
