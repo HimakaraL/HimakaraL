@@ -16,7 +16,7 @@
   <div style="margin-bottom: 20px;">
     <h2>Languages I Use</h2>
     <a href="https://github.com/HimakaraL/HimakaraL">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimakaraL&hide=java,html,shaderlab,glsl,tex&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=151515&langs_count=5" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimakaraL&hide=html,shaderlab,glsl,tex&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=151515&langs_count=5" />
     </a>
   </div>
 
