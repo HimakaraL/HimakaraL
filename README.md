@@ -1,4 +1,7 @@
 <div style="text-align: center;">
+  <!-- About Me Heading -->
+  <h1>About Me</h1>
+
   <!-- 1st Row: Description and GIF -->
   <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 20px;">
     <div style="margin-right: 20px; text-align: left;">
@@ -13,8 +16,7 @@
   <div style="margin-bottom: 20px;">
     <h2>Languages I Use</h2>
     <a href="https://github.com/HimakaraL/HimakaraL">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimakaraL&hide=java,html,tex&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=151515&langs_count=3" />
-
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimakaraL&hide=java,html,tex&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=151515&langs_count=3" />
     </a>
   </div>
   
