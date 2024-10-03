@@ -7,7 +7,6 @@
     <div style="margin-right: 20px;">
       <p style="text-align: left;">👋 Hi, I’m Himakara-L</p>
       <p style="text-align: left;">📫 Reach me: <a href="mailto:himakaral@outlook.com">himakaral@outlook.com</a></p>
-      <p style="text-align: left;">🌐 <a href="http://himakaral.000.pe">himakaral.000.pe</a></p>
     </div>
     <img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="250" height="250" />
   </div>
