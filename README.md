@@ -8,7 +8,6 @@
       <p style="text-align: left;">👋 Hi, I’m Himakara-L</p>
       <p style="text-align: left;">📫 Reach me: <a href="mailto:himakaral@outlook.com">himakaral@outlook.com</a></p>
     </div>
-    <img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="250" height="250" />
   </div>
   
   <!-- 2nd Row: Languages I Use -->
