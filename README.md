@@ -9,14 +9,6 @@
       <p style="text-align: left;">📫 Reach me: <a href="mailto:himakaral@outlook.com">himakaral@outlook.com</a></p>
     </div>
   </div>
-  
-  <!-- 2nd Row: Languages I Use -->
-  <div style="margin-bottom: 20px;">
-    <h2>Languages I Use</h2>
-    <a href="https://github.com/HimakaraL/HimakaraL">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimakaraL&hide=java,html,shaderlab,csharp,glsl,tex&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=151515&langs_count=3" />
-    </a>
-  </div>
 
   <br/>
   <!-- 3rd Row: Provided Image -->
