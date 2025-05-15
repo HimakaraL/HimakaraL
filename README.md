@@ -27,7 +27,7 @@ I love crafting beautiful UIs and writing clean, maintainable code. I enjoy solv
 
 - 🌱 Exploring advanced **TypeScript patterns**, **API architecture**, and **microservices**
 - 🛠 Building full-stack apps using modern Web development Frameworks
-- 🧠 Improving my skills in **cloud platforms** in AWS
+- 🧠 Improving my skills in **cloud platforms** like AWS
 - 🎯 Long-term goal: Become a top-tier **Full Stack Developer** and startup founder
 
 ---
