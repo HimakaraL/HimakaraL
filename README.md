@@ -19,7 +19,6 @@ I love crafting beautiful UIs and writing clean, maintainable code. I enjoy solv
 
 - 🌐 **Portfolio**: [portfoliohimakara.vercel.app](https://portfoliohimakara.vercel.app/)
 - 📧 **Email**: [himakaral@outlook.com](mailto:himakaral@outlook.com)
-- 🐙 **GitHub**: [github.com/your-username](https://github.com/your-username)
 
 ---
 
