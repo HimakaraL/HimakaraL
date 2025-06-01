@@ -2,7 +2,7 @@
 
 Hi there! I'm **Heshan Himakara**, a passionate and self-driven **Full Stack Developer** from Sri Lanka.
 
-🎓 I'm currently pursuing my degree in **Data Science** at **SLIIT**, and interning as a **Software Engineer**, where I work on modern web applications and scalable systems.
+🎓 I'm currently pursuing my degree in **Data Science** at **SLIIT**, and work as a **Software Engineer**, where I work on modern web applications and scalable systems.
 
 💻 I specialize in building robust full-stack applications using:
 
