@@ -12,7 +12,6 @@ Hey, I'm **Heshan Himakara** – code whisperer by day, bug hunter by night.
 - Dreaming of launching a startup 🚀
 
 ## 📫 Ping Me
-[🌐 portfoliohimakara.vercel.app](https://portfoliohimakara.vercel.app)  
 📬 himakaral@outlook.com
 
 ---
